@@ -1,6 +1,6 @@
 ### Predictive Modeling and Model Comparison
 This project involves building and evaluating two predictive models to predict the target variable of a dataset. 
-A comprehensive comparison of the models' performance is conducted using standard metrics for classification and regression problems.
+A comprehensive comparison of the models' performance is conducted using standard metrics for classification problems.
 
 ### Features
 
